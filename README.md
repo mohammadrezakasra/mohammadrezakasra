@@ -13,13 +13,27 @@ I am a Master's student in **Computer Engineering** at **Sharif University of Te
 * **Core Focus:** Deep Learning, Autonomous Perception, and Sensor Fusion.
 
 ---
-
 ### 🛠️ Tech Stack & Expertise
 
-* **Languages:** Python, SQL
-* **AI & Vision Frameworks:** PyTorch, TensorFlow, OpenCV
-* **Vision Architectures:** Deep Understanding of CNNs, ResNet, YOLO (You Only Look Once), Vision Transformers (ViT)
-* **Version Control:** Git, GitHub, GitLab
+* **Deep Learning & AI:**
+    * **Frameworks:** PyTorch, TensorFlow
+    * **Architectures:** Convolutional Neural Networks (CNN), ResNet, Vision Transformers (ViT), Transfer Learning, Backpropagation & Optimization.
+    * **Foundations:** Deep Neural Network design, Loss function optimization (based on *Machine Learning: A Journey to Deep Learning*).
+
+* **Computer Vision (CV):**
+    * **Libraries:** Advanced OpenCV (Image Filtering, Morphological Operations, Feature Detection like SIFT/ORB/SURF, Object Tracking).
+    * **Deep Vision:** YOLO (Object Detection), Semantic Segmentation (LiDAR & RGB Data Fusion).
+    * **Foundations:** Camera Calibration, Motion Analysis, Image Pre-processing.
+
+* **Robotics & Control:**
+    * **Kinematics & Dynamics:** Forward/Inverse Kinematics, Trajectory Generation (based on *Robotics, Vision and Control* by Peter Corke).
+    * **Sensor Fusion:** Multi-modal data fusion strategies for autonomous navigation.
+
+* **Data Engineering & Databases:**
+    * **SQL:** Query Optimization, Normalization, Window Functions, CTEs (from *The Complete SQL Bootcamp*).
+
+* **Mathematical Foundations:**
+    * **Core Math:** Linear Algebra (Matrix decompositions), Matrix Calculus (for Deep Learning), Probability & Statistics (for Data Science).
 
 ---
 
@@ -52,16 +66,21 @@ Once the core roadmap is complete, my next milestone is mastering RL to bridge t
 ---
 
 ### 🌟 Beyond the Code
-I believe in maintaining a sharp, balanced mind. My off-screen time is dedicated to exploring non-academic literature, training to learn the violin, and hitting the slopes on a snowboard. I approach these personal pursuits with the same dedication and focus as I apply to my research in AI.
+I believe in maintaining a sharp, balanced mind. My off-screen time is dedicated to exploring non-academic literature, training to learn the violin. I approach these personal pursuits with the same dedication and focus as I apply to my research in AI.
 
 ---
 
 ### 🌐 Languages
 * **Persian:** Native
 * **English:** Working Proficiency (Actively improving/Currently enrolled in advanced courses)
-
+---
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadrezakasra&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohammadreza's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezakasra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 ### 🤝 Connect with Me
-* [LinkedIn](YOUR_LINKEDIN_URL_HERE)
-* [Email](mailto:YOUR_EMAIL_HERE)
+* [LinkedIn](linkedin.com/in/mohammad-reza-koohi)
+* [Email](mohammadrezaakoohi@gmail.com)
