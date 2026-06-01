@@ -15,6 +15,22 @@ I am a Master's student in **Computer Engineering** at **Sharif University of Te
 ---
 ### 🛠️ Tech Stack & Expertise
 
+<div align="left">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <!-- TensorFlow -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <!-- OpenCV -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <!-- SQL - تغییر رنگ برای خوانایی بهتر -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <!-- Git - تغییر به رنگ مشکی/خاکستری تیره برای دیدن بهتر لوگو -->
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+  <!-- Docker (اختیاری اگر استفاده می‌کنی) -->
+</div>
+
 * **Deep Learning & AI:**
     * **Frameworks:** PyTorch, TensorFlow
     * **Architectures:** Convolutional Neural Networks (CNN), ResNet, Vision Transformers (ViT), Transfer Learning, Backpropagation & Optimization.
@@ -74,11 +90,13 @@ I believe in maintaining a sharp, balanced mind. My off-screen time is dedicated
 * **Persian:** Native
 * **English:** Working Proficiency (Actively improving/Currently enrolled in advanced courses)
 ---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadrezakasra&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohammadreza's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezakasra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohammadreza's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
 ---
 
 ### 🤝 Connect with Me
