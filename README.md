@@ -18,17 +18,20 @@ I am a Master's student in **Computer Engineering** at **Sharif University of Te
 <div align="left">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <!-- PyTorch -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <!-- TensorFlow -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <!-- OpenCV -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <!-- SQL - تغییر رنگ برای خوانایی بهتر -->
+  <!-- SQL -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <!-- Git - تغییر به رنگ مشکی/خاکستری تیره برای دیدن بهتر لوگو -->
+  <!-- Git -->
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
-  <!-- Docker (اختیاری اگر استفاده می‌کنی) -->
 </div>
 
 * **Deep Learning & AI:**
