@@ -32,6 +32,8 @@ I am a Master's student in **Computer Engineering** at **Sharif University of Te
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+  <!-- Gitflow -->
+  <img src="https://img.shields.io/badge/Gitflow-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
 * **Deep Learning & AI:**
