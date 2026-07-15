@@ -13,6 +13,7 @@ I am a Master's student in **Computer Engineering** at **Sharif University of Te
 * **Core Focus:** Deep Learning, Autonomous Perception, and Sensor Fusion.
 
 ---
+
 ### 🛠️ Tech Stack & Expertise
 
 <div align="left">
