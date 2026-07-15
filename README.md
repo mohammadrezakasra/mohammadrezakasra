@@ -13,32 +13,22 @@ I am a Master's student in **Computer Engineering** at **Sharif University of Te
 * **Core Focus:** Deep Learning, Autonomous Perception, and Sensor Fusion.
 
 ---
-
 ### 🛠️ Tech Stack & Expertise
 
 <div align="left">
-  <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <!-- NumPy -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <!-- Pandas -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <!-- PyTorch -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <!-- TensorFlow -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <!-- OpenCV -->
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <!-- Git -->
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
-  <!-- Gitflow -->
   <img src="https://img.shields.io/badge/Gitflow-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
 * **Deep Learning & AI:**
-    * **Frameworks:** PyTorch, TensorFlow
+    * **Frameworks:** PyTorch, TensorFlow, Keras
     * **Architectures:** Convolutional Neural Networks (CNN), ResNet, Vision Transformers (ViT), Transfer Learning, Backpropagation & Optimization.
     * **Foundations:** Deep Neural Network design, Loss function optimization (based on *Machine Learning: A Journey to Deep Learning*).
 
@@ -50,9 +40,6 @@ I am a Master's student in **Computer Engineering** at **Sharif University of Te
 * **Robotics & Control:**
     * **Kinematics & Dynamics:** Forward/Inverse Kinematics, Trajectory Generation (based on *Robotics, Vision and Control* by Peter Corke).
     * **Sensor Fusion:** Multi-modal data fusion strategies for autonomous navigation.
-
-* **Data Engineering & Databases:**
-    * **SQL:** Query Optimization, Normalization, Window Functions, CTEs (from *The Complete SQL Bootcamp*).
 
 * **Mathematical Foundations:**
     * **Core Math:** Linear Algebra (Matrix decompositions), Matrix Calculus (for Deep Learning), Probability & Statistics (for Data Science).
@@ -71,7 +58,7 @@ I am currently finalizing this intensive self-study track to solidify my foundat
 #### 🧠 Deep Learning & Computer Vision
 * `Udemy` PyTorch for Deep Learning (Zero To Mastery)
 * `Udemy` Complete Computer Vision Bootcamp with PyTorch & TensorFlow
-* `Udemy` The Complete SQL Bootcamp: Go from Zero to Hero
+* `Udemy` Master Computer Vision™ OpenCV4 in Python with Deep Learning
 
 #### 📖 Current Reading List
 * *Machine Learning: A Journey to Deep Learning with Exercises and Answers*
@@ -110,15 +97,12 @@ I believe in maintaining a sharp, balanced mind. My off-screen time is dedicated
 
 ### 🤝 Connect with Me
 <div align="left">
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/mohammad-reza-koohi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Telegram -->
   <a href="https://t.me/mohammadrezakasra" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <!-- Email -->
   <a href="mailto:mohammadrezaakoohi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
